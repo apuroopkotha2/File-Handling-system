@@ -4,6 +4,7 @@ This Python project provides a script for organizing files within a specified fo
 
 ### Features
 Automatic Organization: The script automates the sorting and moving of files based on a customizable regex pattern.
+
 Flexibility: Users can easily customize the source and destination folders, as well as the regex pattern according to their specific requirements.
 
 ### Notes
